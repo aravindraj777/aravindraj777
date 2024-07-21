@@ -6,13 +6,13 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 
 🔹 Technical Expertise:
 
-Java Spring Boot: Expertise in developing robust back-end systems and RESTful APIs.
+<strong>Java Spring Boot</strong> : Expertise in developing robust back-end systems and RESTful APIs.
 <br/>
-Angular: Proficient in creating dynamic, responsive, and user-centric front-end applications.
+<strong>Angular</strong>: Proficient in creating dynamic, responsive, and user-centric front-end applications.
 <br/>
-Microservices: Skilled in designing modular, scalable service-oriented architectures.
+<strong>Microservices</strong> : Skilled in designing modular, scalable service-oriented architectures.
 <br/>
-DevOps: Experienced in CI/CD processes, containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS).
+<strong>DevOps</strong> : Experienced in CI/CD processes, containerization (Docker), orchestration (Kubernetes), and cloud platforms (AWS).
 <br/>
 <br/>
 🚀 Vision: To drive technological advancement and innovation by developing sophisticated, scalable solutions that meet and exceed user expectations.
