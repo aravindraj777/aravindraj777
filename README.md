@@ -27,6 +27,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 
 
 ## 📝 Blog Posts
+-   [Spring Boot Monitoring](https://medium.com/@aravindmunna240/02313b87e0fb)
 -   [Most used Spring Boot annotations](https://bit.ly/3A2teZM)
 
 
