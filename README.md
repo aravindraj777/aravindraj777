@@ -23,7 +23,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 ## 🔗 Connect
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindraj772/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aravindraj_rs/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aravindraj333) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aravindraj772/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aravindraj_rs/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aravindraj333) [![Medium](https://img.shields.io/badge/Medium-%2300ab6b.svg?logo=Medium&logoColor=white)](https://medium.com/@aravindmunna240) 
 
 
 ## 📝 Blog Posts
