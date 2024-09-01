@@ -30,6 +30,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 -   [Spring Boot Monitoring](https://medium.com/@aravindmunna240/02313b87e0fb)
 -   [Automation With GitHub Actions](https://medium.com/@aravindmunna240/automate-your-workflow-building-a-ci-cd-pipeline-for-spring-boot-with-github-actions-build-afa3aaefe612)
 -   [Most used Spring Boot annotations](https://bit.ly/3A2teZM)
+-   [Tailwind installation in Angular Project](https://medium.com/devops-dev/install-tailwind-css-in-angular-project-a-step-by-step-guide-5f76d963c380)
 
 
 ## 🛠️ Skills
