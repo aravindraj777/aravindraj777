@@ -1,8 +1,10 @@
 <h2>👨‍💻 About Me</h2>
-<strong>Aravindraj R S - Full Stack Developer | Microservices Developer | DevOps Enthusiast | Technical Writer</strong><br><br>
+<strong>Aravindraj R S - Full Stack Developer | Software Analyst | Production Support Engineer | Microservices Developer | DevOps Enthusiast | Technical Writer</strong><br><br>
 I am a dedicated Full Stack Developer with a strong foundation in Java Spring Boot and Angular, coupled with hands-on experience in microservices and DevOps. Over the past 2 years, I’ve honed my skills in designing and developing scalable web applications and optimizing deployment pipelines.
 
 My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
+
+🔹Current Work :- Insurance Domain (Guidewire Insurance suite Apps (Policy Center, Billing Center, Claims Center))
 
 🔹 Technical Expertise:
 
